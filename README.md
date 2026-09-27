@@ -23,3 +23,6 @@ This repository contains the complete end-to-end manual testing lifecycle:
 *   **Black-Box Test Design:** Utilizing Boundary Value Analysis (BVA), Equivalence Partitioning (EP), and negative testing paths.
 *   **Defect Lifecycle Management:** Documenting highly actionable bug logs complete with environment baselines and replication protocols.
 *   **Security & UI Integrity:** Auditing session boundaries, validation text boxes, and security filters against common edge-case vulnerabilities.
+
+
+
